@@ -1,0 +1,49 @@
+      what is Data?
+
+       - data is information stored in a database.
+
+2.       what is Information?
+       - a collection of records or data that is stored in a computer or information system
+
+
+3.      what is Database(DB)?
+       - A database is an organized collection of structured information, or data, typically stored electronically in a computer system
+
+ 
+4.      What is the Relation Database Management System(RDBMS)?
+       - database that stores data in tables, so it can be used in relation to other stored datasets
+
+
+5.      Define the importance of Relation Database Management System(RDBMS)?
+       - It creates meaningful information by joining the tables.
+
+
+6.     As we all know that there are Two types of Database. Relational Database(SQL) AND Non-Relational DB(NO sql). what is the difference between them.
+       - relational databases store data in rows and columns like a spreadsheet while non-relational databases store data without using a storage model.
+
+7. 	List examples of Relation Database Management System(RDBMS)?
+       - Microsoft SQL Server, Oracle Database, MySQL and IBM DB2.
+
+
+8.       List examples of Non-Relational DB(Nosql)? 
+        - MongoDB, Apache Cassandra, Redis, Couchbase and Apache HBase
+
+
+9.       Define and Describe is Structured Query Language(SQL)?
+      - Structured Query Language is a standard Database language which is used to create, maintain and retrieve the relational database
+
+
+10.       List and Describe each of the different subsets of SQL(Mean DDL, DML, DCL, TCL)?
+         - DDL- data definition language
+         - DML- Data manuplation language
+         - DCL- data control language
+         - TCL- Transaction control language
+
+11.      what is table in Database(DB)?
+         - Table is a database objects that contain all the data in a database.
+
+
+12.     what is column and Row(tuples) in table?
+        - A column is a set of data values of a particular type, one value for each row of the database.
+        - A row represents a single, implicitly structured data item in a table.Each row in a table represents a set of related data, and every row in the table has the same structure.
+
